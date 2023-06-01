@@ -770,6 +770,7 @@ class ReqlBoolOperQuery(ReqlQuery):
         )
 
 
+
 class ReqlBiOperQuery(ReqlQuery):
     """
     RethinkDB binary query operation.
